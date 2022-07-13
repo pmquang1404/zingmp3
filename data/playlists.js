@@ -15,9 +15,9 @@ var listPlaylist = [
         image: "./assets/img/playlists/playlist3.jpg"
     },
     {
-        name: "Những bản hit của Rap Việt",
-        creator: "Bigcityboi",
-        image: "./assets/img/playlists/playlist4.jpg"
+        name: "Những bản hit của EXO",
+        creator: "EXO",
+        image: "./assets/img/playlists/EXO.jpeg"
     },
     {
         name: "Top 100 Bài Hát Nhạc Trẻ Hay Nhất",
