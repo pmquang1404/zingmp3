@@ -351,108 +351,108 @@ var listSong = [
     ],
     [
         {
-            name: "Eyes - Đôi mắt",
-            singer: ["G.Ducky"],
+            name: "Don't fight the feeling",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song1.mp3",
-            image: "./assets/img/music/listSong4/song1.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Giàu Vì Bạn Sang Vì Vợ",
-            singer: ["RPT MCK"],
+            name: "Love Shot",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song2.mp3",
-            image: "./assets/img/music/listSong4/song2.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Walk On Da Street",
-            singer: ["16 Typh", "16 BrT"],
+            name: "Tempo",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song3.mp3",
-            image: "./assets/img/music/listSong4/song3.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "CHƠI",
-            singer: ["HIEUTHUHAI", "MANBO"],
+            name: "Growl",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song4.mp3",
-            image: "./assets/img/music/listSong4/song4.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Thủ Đô Cypher",
-            singer: ["RPT Orijinn", "LOW G", "RZMas", "RPT MCK"],
+            name: "CALL ME BABY",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song5.mp3",
-            image: "./assets/img/music/listSong4/song5.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
     
         {
-            name: "Buông Hàng",
-            singer: ["Young Milo"],
+            name: "Ko K Bop",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song6.mp3",
-            image: "./assets/img/music/listSong4/song6.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Người Chơi Hệ Đẹp",
-            singer: ["16 Typh"],
+            name: "Monster",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song7.mp3",
-            image: "./assets/img/music/listSong4/song7.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Ghé Qua",
-            singer: ["Dick ", "PC", "Tofu"],
+            name: "24/7",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song8.mp3",
-            image: "./assets/img/music/listSong4/song8.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Đìu Anh Luôn Giữ Kín Trong Tym",
-            singer: ["RPT MCK", "tlinh", "2pillz "],
+            name: "Obsession",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song9.mp3",
-            image: "./assets/img/music/listSong4/song9.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
         {
-            name: "Xích Thêm Chút",
-            singer: ["RPT Groovie", "TLinh", "RPT MCK"],
+            name: "The Eve",
+            singer: ["EXO"],
             path: "./assets/music/listSong4/song10.mp3",
-            image: "./assets/img/music/listSong4/song10.jpg"
+            image: "./assets/img/music/listSong4/EXO.jpeg"
         },
-        {
-            name: "Tay To",
-            singer: ["RPT MCK", "RPT PhongKhin"],
-            path: "./assets/music/listSong4/song11.mp3",
-            image: "./assets/img/music/listSong4/song11.jpg"
-        },
-        {
-            name: "SIMPLE LOVE",
-            singer: ["Obito", "Seachains", "Davis", "Lena"],
-            path: "./assets/music/listSong4/song12.mp3",
-            image: "./assets/img/music/listSong4/song12.jpg"
-        },
-        {
-            name: "Va Vào Giai Điệu Này",
-            singer: ["RPT MCK"],
-            path: "./assets/music/listSong4/song13.mp3",
-            image: "./assets/img/music/listSong4/song13.jpg"
-        },
-         {
-            name: "Em Gái",
-            singer: ["Blaise", "Low G"],
-            path: "./assets/music/listSong4/song14.mp3",
-            image: "./assets/img/music/listSong4/song14.jpg"
-        },
-        {
-            name: "OK",
-            singer: ["Binz"],
-            path: "./assets/music/listSong4/song15.mp3",
-            image: "./assets/img/music/listSong4/song15.jpg"
-        },
-        {
-            name: "Gene",
-            singer: ["Binz"],
-            path: "./assets/music/listSong4/song16.mp3",
-            image: "./assets/img/music/listSong4/song16.jpg"
-        },
-         {
-            name: "They Said",
-            singer: ["Binz"],
-            path: "./assets/music/listSong4/song17.mp3",
-            image: "./assets/img/music/listSong4/song17.jpg"
-        },
+        // {
+        //     name: "Tay To",
+        //     singer: ["RPT MCK", "RPT PhongKhin"],
+        //     path: "./assets/music/listSong4/song11.mp3",
+        //     image: "./assets/img/music/listSong4/song11.jpg"
+        // },
+        // {
+        //     name: "SIMPLE LOVE",
+        //     singer: ["Obito", "Seachains", "Davis", "Lena"],
+        //     path: "./assets/music/listSong4/song12.mp3",
+        //     image: "./assets/img/music/listSong4/song12.jpg"
+        // },
+        // {
+        //     name: "Va Vào Giai Điệu Này",
+        //     singer: ["RPT MCK"],
+        //     path: "./assets/music/listSong4/song13.mp3",
+        //     image: "./assets/img/music/listSong4/song13.jpg"
+        // },
+        //  {
+        //     name: "Em Gái",
+        //     singer: ["Blaise", "Low G"],
+        //     path: "./assets/music/listSong4/song14.mp3",
+        //     image: "./assets/img/music/listSong4/song14.jpg"
+        // },
+        // {
+        //     name: "OK",
+        //     singer: ["Binz"],
+        //     path: "./assets/music/listSong4/song15.mp3",
+        //     image: "./assets/img/music/listSong4/song15.jpg"
+        // },
+        // {
+        //     name: "Gene",
+        //     singer: ["Binz"],
+        //     path: "./assets/music/listSong4/song16.mp3",
+        //     image: "./assets/img/music/listSong4/song16.jpg"
+        // },
+        //  {
+        //     name: "They Said",
+        //     singer: ["Binz"],
+        //     path: "./assets/music/listSong4/song17.mp3",
+        //     image: "./assets/img/music/listSong4/song17.jpg"
+        // },
     ],
 ];
 
